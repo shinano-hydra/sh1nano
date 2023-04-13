@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on RiasuLoader
-- 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on LeetHeartz
+- 🔭 I’m currently working on [CENSORED] (Custom Azur Lane Server based on Global)
+- 🌱 I’m currently learning Node.js and Golang
+- 👯 I’m looking to collaborate on Team HYDRA
 - 🤔 I’m looking for help with my psycho problems
 - 💬 Ask me about: irc.rizon.net/#LeetHeartz
-- 📫 How to reach me: NEVER TRY TO CONTACT ME
+- 📫 How to reach me: t.me/
 - 😄 Pronouns: FUCK PRONOUNS
-- ⚡ Fun fact: I'ma crazy machine which looks like pretty girl
-- блять челюсть свело пока текст писала
+- ⚡ Fun fact: I'ma crazy machine which looks like 'dead inside' person
+- I'ma witch house enjoyer :0
