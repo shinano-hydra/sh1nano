@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [CENSORED] (Custom Azur Lane Server based on Global)
+- 🔭 I’m currently working on [CENSORED] (Custom Server for one game with shipgirls')
 - 🌱 I’m currently learning Node.js and Golang
 - 👯 I’m looking to collaborate on Team HYDRA
 - 🤔 I’m looking for help with my psycho problems
