@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Team HYDRA
 - 🤔 I’m looking for help with my psycho problems
 - 💬 Ask me about: irc.rizon.net/#LeetHeartz
-- 📫 How to reach me: t.me/
+- 📫 How to reach me: t.me/ul7ramarine
 - 😄 Pronouns: FUCK PRONOUNS
 - ⚡ Fun fact: I'ma crazy machine which looks like 'dead inside' person
 - I'ma witch house enjoyer :0
